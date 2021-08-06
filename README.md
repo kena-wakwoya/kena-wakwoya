@@ -18,7 +18,7 @@ Whatever I do, I do with perfection, Takes work ethics very seriously.
 ✉️  You can shoot me an email at kwakwoya@gmail.com. I'll respond as soon as I can. 
 
  
-🛠  Tech Stack
+🛠  Tech Stack  
 Python  JavaScript  Java  C  C#  React  React-native  Node.js  Express.js  Nest.js  Flutter  Bootstrap
 HTML  CSS  Git  Photoshop  GitHub  AWSLambda
 
