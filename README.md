@@ -15,4 +15,9 @@ Whatever I do, I do with perfection, Takes work ethics very seriously.
 🌱  I'm on track for learning more about Machine Learining and Artificial Intelligence.  
 💬  Feel free to reach out to me <a href="https://www.linkedin.com/kena-wakwoya-kanai/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 .  
-✉️  You can shoot me an email at kwakwoya@gmail.com. I'll respond as soon as I can.
+✉️  You can shoot me an email at kwakwoya@gmail.com. I'll respond as soon as I can.  
+
+
+
+
+![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=kena-wakwoya&theme=radical&show_icons=true&count_private=true “Kenas’ GutHub Stats”)
