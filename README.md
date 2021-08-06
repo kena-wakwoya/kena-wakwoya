@@ -17,4 +17,4 @@ Whatever I do, I do with perfection, Takes work ethics very seriously.
 ✉️  You can shoot me an email at kwakwoya@gmail.com. I'll respond as soon as I can.
 
 Social Media
-<a href=”https://www.linkedin.com/kena-wakwoya-kanai/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href="https://www.linkedin.com/kena-wakwoya-kanai/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
