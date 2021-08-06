@@ -20,7 +20,7 @@ Whatever I do, I do with perfection, Takes work ethics very seriously.
 
 
 
-![Kenas’ GitHub stats](https://github-readme-stats.vercel.app/api?username=kena-wakwoya&theme=radical&show_icons=true&count_private=true "Kenas’ GutHub Stats")
+![Kenas’ GitHub stats](https://github-readme-stats.vercel.app/api?username=kena-wakwoya&theme=onedark&show_icons=true&count_private=true "Kenas’ GutHub Stats")
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kena-wakwoya&theme=synthwave "Kenas’ Top Languages Card")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kena-wakwoya&theme=tokyonight "Kenas’ Top Languages Card")
