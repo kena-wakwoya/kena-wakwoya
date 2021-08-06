@@ -10,7 +10,7 @@ Whatever I do, I do with perfection, Takes work ethics very seriously.
 💡  I like to explore new technologies and develop software solutions.
 🎓  I have studied Software Engineering in Addis Ababa University.
 🌱  I'm on track for learning more about Machine Learining and Artificial Intelligence.
-💬  Feel free to reach out to me on linked in @
-✉️  You can shoot me an email at [kwakwoya@gmail.com]. I'll respond as soon as I can.
+💬  Feel free to reach out to me on linked in linkedin.com/in/kena-wakwoya-kanai
+✉️  You can shoot me an email at kwakwoya@gmail.com. I'll respond as soon as I can.
 
 
