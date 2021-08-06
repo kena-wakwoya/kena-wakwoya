@@ -1,7 +1,7 @@
  👋 Hi, I’m Kena Wakwoya.  
 
 🌱 I’m currently learning aws integration.  
-💞️ I’m looking to collaborate on reactjs, reactnative and flutter projects.  
+💞️ I’m looking to collaborate on reactjs, reactnative,flutter,angular, aws lambda function and aws apigateway integration projects.  
 
 I am a Full Stack Software Developer and machine-learning enthusiast. I am passionate about technologies and try to learn new stack.  
 Whatever I do, I do with perfection, Takes work ethics very seriously.
@@ -11,16 +11,33 @@ Whatever I do, I do with perfection, Takes work ethics very seriously.
 
 👨🏻‍💻  About Me  
 💡  I like to explore new technologies and develop software solutions.  
-🎓  I have studied Software Engineering in Addis Ababa University.  
-🌱  I'm on track for learning more about Machine Learining and Artificial Intelligence.  
-💬  Feel free to reach out to me <a href="https://www.linkedin.com/kena-wakwoya-kanai/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+🎓  I have BSc in Software Engineering from Addis Ababa University.  
+🌱  I'm on track for learning more about Datascience and Artificial Intelligence.  
+💬  Feel free to reach out to me for any discussions. 
 .  
-✉️  You can shoot me an email at kwakwoya@gmail.com. I'll respond as soon as I can.  
+✉️  You can shoot me an email at kwakwoya@gmail.com. I'll respond as soon as I can. 
+
+ 
+🛠  Tech Stack
+Python  JavaScript  Java  C  C#  React  React-native  Node.js  Express.js  Nest.js  Flutter  Bootstrap
+HTML  CSS  Git  Photoshop  GitHub  AWSLambda
 
 
 
 
+
+⚙️  GitHub Stats  
 ![Kenas’ GitHub stats](https://github-readme-stats.vercel.app/api?username=kena-wakwoya&theme=onedark&show_icons=true&count_private=true "Kenas’ GutHub Stats")
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kena-wakwoya&theme=tokyonight "Kenas’ Top Languages Card")
+
+
+
+
+Contact me!  
+<a href="https://www.linkedin.com/kena-wakwoya-kanai/"> ![kena wakwoya](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href="https://twitter.com/KenaWakwoya">![Kena Wakwoya](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
+
+
+
