@@ -1,0 +1,61 @@
+- name: Python
+  logo: python
+  url: https://www.python.org/
+  color: '#3C78A9'
+  
+- name: Dart
+  logo: dart
+  url: https://dart.dev/
+  color: '#52C0F2'
+  
+- name: Flutter
+  logo: flutter
+  url: https://flutter.dev/
+  color: '#52C0F2'
+- name: React
+  logo: react
+  url: https://reactjs.org/
+  color: '#52C0F2'
+  
+- name: React-Native
+  logo: react-native
+  url: https://reactnative.dev/
+  color: '#52C0F2'
+  
+- name: Java
+  logo: java
+  url: https://www.java.com/en/
+  color: '#DEA584'
+  
+
+- name: JS/TS
+  logo: typescript
+  url: https://www.typescriptlang.org/
+  color: '#3878C6'
+  
+- name: GraphQL
+  logo: graphql
+  url: https://graphql.org
+  color: '#000000'
+  
+- name: Mysql
+  logo: mysql
+  url: https://www.mysql.com
+  color: '#336791'
+ 
+- name: Nodejs
+  logo: nodejs
+  url: https://nodejs.org/
+  color: '#4FA1EF'
+ 
+- name: Express
+  logo: express
+  url: https://expressjs.com/
+  color: '#3D6117'
+  
+- name: JavaScript
+  logo: javascript
+  url: https://www.javascript.com/
+  color: '#019733'
+  
+ 
