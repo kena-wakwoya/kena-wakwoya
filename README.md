@@ -1,6 +1,6 @@
  👋 Hi, I’m Kena Wakwoya.  
 
-🌱 I’m currently learning aws integration.  
+🌱 I’m currently working on aws integration.  
 💞️ I’m looking to collaborate on reactjs, reactnative,flutter,angular, aws lambda function and aws apigateway integration projects.  
 
 I am a Full Stack Software Developer and machine-learning enthusiast. I am passionate about technologies and try to learn new stack.  
